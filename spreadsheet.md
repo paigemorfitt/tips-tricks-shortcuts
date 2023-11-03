@@ -9,6 +9,6 @@
 
 
 <table>
-  <th>Spreadsheet</th>
+  <th>Spreadsheets</th>
   <tr>equation</tr>
 </table>
