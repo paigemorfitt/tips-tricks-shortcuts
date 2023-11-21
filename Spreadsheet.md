@@ -22,7 +22,7 @@
 		<td>=countIf(B3, "*(Sh)Review*")</td>
 		<td>Looks in B3 and counts if it finds any "(Sh)Review" in that cell</td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=3:3"</a>Example (Row 3)</td>
-		<td>2023-11-21</td>
+		<td>November 2023</td>
 	</tr>
 	<tr>
 		<td>Google Sheets & Excel</td>
@@ -31,7 +31,7 @@
 		<td>Create a True/False situation in Column B. This will only count 
 		"False"</td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=4:4"</a>Example (Row 4)</td>
-		<td>2023-11-21</td>
+		<td>November 2023</td>
 		
 	</tr>
 </table>
