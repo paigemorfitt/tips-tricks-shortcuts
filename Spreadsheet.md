@@ -25,10 +25,10 @@
 	<tr>
 		<td>Google Sheets</td>
 		<td>to count all "False" statements and identify what that number indicates</td>
-		<td>=Un-Suppressed : "&(countif(B2:B, "False"))</td>
+		<td>=="Un-Suppressed : "&(countif(B4:G4, False))</td>
 		<td>Create a True/False situation in Column B. This will only count 
 		"False"</td>
-		<td></td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=4:4"</a>Example (Row 4)</td>
 		
 	</tr>
 </table>
