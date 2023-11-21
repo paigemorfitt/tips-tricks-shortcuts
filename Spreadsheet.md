@@ -20,6 +20,6 @@
 		<td>to find and count any findings of that text in a cell</td>
 		<td>countIf(B3, "*(Sh)Review*")</td>
 		<td>Looks in B3 and counts if it finds any "(Sh)Review" in that cell</td>
-		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit?usp=sharing"Example</a></td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit?usp=sharing"</a>Example</td>
 	</tr>
 </table>
