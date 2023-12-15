@@ -5,8 +5,7 @@
     <th><a href="OpenRefine.md">OpenRefine</a></th>
     <th><a href="ReGex.md">RegEx</a></th>
   </tr>
-<table>
-
+</table>
 <table>
 	<tr>
 		<th>Where</th>
