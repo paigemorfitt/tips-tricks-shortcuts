@@ -13,6 +13,7 @@
 		<th>What</th>
 		<th>Equation</th>
 		<th>Explanation</th>
+		<th>Example</th>
 		<th>Date Checked</th>
 	</tr>
 	<tr>
@@ -20,6 +21,7 @@
 		<td>Edit second indicator 7</td>
 		<td>^.{6}\\7</td>
 		<td>in Add/Delete Field, select the field (ex. 650) and in the Field Data put in the RegEx. In General options make sure to select the box "Use Regular Expression".</td>
+		<th><a href="https://youtu.be/YvKOaV_PeVo">Example</a></th>
 		<td>December 2023</td>
 	</tr>
 </table>
