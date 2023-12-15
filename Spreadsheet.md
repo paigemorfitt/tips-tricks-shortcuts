@@ -6,6 +6,7 @@
     <th><a href="RegEx.md">RegEx</a></th>
   </tr>
 </table>
+
 <table>
 	<tr>
 		<th>Where</th>
@@ -31,6 +32,5 @@
 		"False"</td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=4:4"</a>Example (Row 4)</td>
 		<td>November 2023</td>
-		
 	</tr>
 </table>
