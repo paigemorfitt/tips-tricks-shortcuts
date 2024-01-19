@@ -41,12 +41,4 @@
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=5:5"</a>Example (Row 5)</td>
 		<td>January 2024</td>
 	</tr>
-	<tr>
-		<td>Google Sheets & Excel</td>
-		<td>to change all caps in multiple cells</td>
-		<td>=arrayformula(PROPER(B6:E6)</td>
-		<td></td>
-		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=1553624486&range=2:2"</a>Mulit-line Example (Row 2)</td>
-		<td>January 2024</td>
-	</tr>
 </table>
