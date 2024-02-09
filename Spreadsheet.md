@@ -41,4 +41,13 @@
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=5:5"</a>Example (Row 5)</td>
 		<td>January 2024</td>
 	</tr>
+	 <tr>
+		<td>Google Sheets & Excel</td>
+		<td>Adds hyperlink to a if/then statement based on term</td>
+		<td>=if(A6="Don't know",HYPERLINK("https://www.merriam-webster.com/dictionary/don%27t%20know", "I don't know (for help)"), if(A6="Yes", "Fix in spreadsheet", if(A6="No", "Skip Columns D-E", "")))</td>
+		<td></td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=6:6"</a>Example (Row 6)</td>
+		<td>February 2024</td>
+	</tr>
+	
 </table>
