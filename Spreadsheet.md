@@ -49,5 +49,13 @@
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=6:6"</a>Example (Row 6)</td>
 		<td>February 2024</td>
 	</tr>
+	 <tr>
+		<td>Google Sheets & Excel</td>
+		<td>count all characters in a cell</td>
+		<td>=len(A3)</td>
+		<td></td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=7:7"</a>Example (Row 7)</td>
+		<td>February 2024</td>
+	</tr>
 	
 </table>
