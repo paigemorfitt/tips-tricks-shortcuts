@@ -4,6 +4,7 @@
     <th><a href="Spreadsheet.md">Spreadsheets</a></th>
     <th><a href="OpenRefine.md">OpenRefine</a></th>
     <th>RegEx</th>
+	<th><a href="Other.md">Other</a></th>
   </tr>
 <table>
 
