@@ -18,7 +18,7 @@
 		<td>Alma Analytics</td>
 		<td>How to search multiple MMS ID</td>
 		<td> "99836372901867;99857744801867;99857741901867;99844713601867"</td>
-		<th>to search by multiple MMSID's, separate by ";" and set the drop down to "is equal to"</th>
+		<td>to search by multiple MMSID's, separate by ";" and set the drop down to "is equal to"</td>
 		<td>February 2024</td>
 	</tr>
 </table>
