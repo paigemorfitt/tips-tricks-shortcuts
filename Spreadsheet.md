@@ -3,7 +3,8 @@
     <th><a href="home.md">Home</a></th>
     <th>Spreadsheets</th>
     <th><a href="OpenRefine.md">OpenRefine</a></th>
-    <th><a href="RegEx.md">RegEx</a></th>
+    <th><a href="RegEx.md">RegEx</a></th>.
+	<th><a href="Other.md">Other</a></th>
   </tr>
 </table>
 
