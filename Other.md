@@ -28,4 +28,11 @@
 		<td>This opens closed tabs so you don't have to type in the address again by selecting on your keyboard the keys "Ctrl", "Shift" and "T" at the same time</td>
 		<td>March 2024</td>
 	</tr>
+	<tr>
+		<td>Windows</td>
+		<td>How to record on your computer</td>
+		<td> Windows key + G</td>
+		<td>This allows you to record on you rcomputer, however, it does not record what you do on your desktop/programs downloaded on your desktop. </td>
+		<td>April 2024</td>
+	</tr>
 </table>
