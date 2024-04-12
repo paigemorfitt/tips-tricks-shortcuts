@@ -85,5 +85,24 @@
 		<td>1892-May</td>
 		<td>February 2024</td>
 	</tr>
-
+	</tr>
+		<tr>
+		<td>Edit</td>
+		<td>Add text before cell content</td>
+		<td>"Abstract Type: " + cells["abstract_format"].value</td>
+		<td>This adds the text "Abstract Type: " to the beginning of all content in the column "abstract_format"</td>
+		<td>html</td>
+		<td>Abstract Type: html</td>
+		<td>April 2024</td>
+	</tr>
+	</tr>
+		<tr>
+		<td>Edit</td>
+		<td>Add text after cell content</td>
+		<td>cells["abstract_format"].value + " (form of abstract)"</td>
+		<td>This adds the text  (form of abstract) to the end of all content in the column "abstract_format"</td>
+		<td>html</td>
+		<td>html (form of abstract)</td>
+		<td>April 2024</td>
+	</tr>
 
