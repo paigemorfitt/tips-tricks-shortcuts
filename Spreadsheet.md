@@ -17,6 +17,9 @@
 		<th>Example</th>
 		<th>Date Checked</th>
 	</tr>
+	
+	<h4>Note: Due to changes in Excel (the change from letters to numbers for column labeling) these exact equations will need to be tweaked (4/12/2024)</h4>
+	
 	<tr>
 		<td>Google Sheets & Excel</td>
 		<td>to find and count any findings of that text in a cell</td>
@@ -66,7 +69,7 @@
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=1566302292&range=B:D"</a>Example (Column B-D)</td>
 		<td>March 2024</td>
 	</tr>
-	 <tr>
+	<tr>
 		<td>Google Sheets & Excel</td>
 		<td>Indicates if cells from B9-G9 match what is in column F</td>
 		<td>=countif(B9:G9,F:F)>1</td>
@@ -74,5 +77,20 @@
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=8:8"</a>Example (Row 8)</td>
 		<td>March 2024</td>
 	</tr>
-	
+	<tr>
+		<td>Google Sheets & Excel</td>
+		<td>Helps create alphabet</td>
+		<td>=CHAR(CODE(A1) + 1)</td>
+		<td>Add "A" in the first cell, then put equation in the next, and it will insert a "B". Drag to add more letters. </td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=9:9"</a>Example (Row 9)</td>
+		<td>April 2024</td>
+	</tr>
+	<tr>
+		<td>Google Sheets & Excel</td>
+		<td>Conditional format that indicates if all indicated cells equal "1" then "Yes"</td>
+		<td>=if(AND (B25=0, B30=0, B20=0, B15=0, B10=0), "Yes", "No")</td>
+		<td>Add "A" in the first cell, then put equation in the next, and it will insert a "B". Drag to add more letters. </td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=10:11"</a>Example (Rows 10-11)</td>
+		<td>April 2024</td>
+	</tr>
 </table>
