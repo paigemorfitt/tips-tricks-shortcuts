@@ -17,9 +17,6 @@
 		<th>Example</th>
 		<th>Date Checked</th>
 	</tr>
-	
-	<h4>Note: Due to changes in Excel (the change from letters to numbers for column labeling) these exact equations will need to be tweaked (4/12/2024)</h4>
-	
 	<tr>
 		<td>Google Sheets & Excel</td>
 		<td>to find and count any findings of that text in a cell</td>
