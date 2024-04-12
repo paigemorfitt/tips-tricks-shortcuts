@@ -11,7 +11,7 @@
 		<th>Where</th>
 		<th>What</th>
 		<th>Equation</th>
-		<th>Explanation</th>
+		<th>Format</th>
 		<th>Date Checked</th>
 	</tr>
 	<tr>
@@ -20,5 +20,19 @@
 		<td> "99836372901867;99857744801867;99857741901867;99844713601867"</td>
 		<td>to search by multiple MMSID's, separate by ";" and set the drop down to "is equal to"</td>
 		<td>February 2024</td>
+	</tr>
+	<tr>
+		<td>Internet</td>
+		<td>How to open closed tabs</td>
+		<td> Ctrl + Shift + T</td>
+		<td>This opens closed tabs so you don't have to type in the address again by selecting on your keyboard the keys "Ctrl", "Shift" and "T" at the same time</td>
+		<td>March 2024</td>
+	</tr>
+	<tr>
+		<td>Windows</td>
+		<td>How to record on your computer</td>
+		<td> Windows key + G</td>
+		<td>This allows you to record on you rcomputer, however, it does not record what you do on your desktop/programs downloaded on your desktop. </td>
+		<td>April 2024</td>
 	</tr>
 </table>
