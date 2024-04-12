@@ -7,7 +7,7 @@
 	<th><a href="Other.md">Other</a></th>
   </tr>
 </table>
-
+	<h4>Note: Due to changes in Excel (the change from letters to numbers for column labeling) these exact equations will need to be tweaked (4/12/2024)</h4>
 <table>
 	<tr>
 		<th>Where</th>
