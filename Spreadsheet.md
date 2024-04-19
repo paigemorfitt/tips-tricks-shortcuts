@@ -84,9 +84,9 @@
 	</tr>
 	<tr>
 		<td>Google Sheets & Excel</td>
-		<td>Conditional format that indicates if all indicated cells equal "1" then "Yes"</td>
+		<td>Conditional format check</td>
 		<td>=if(AND (B25=0, B30=0, B20=0, B15=0, B10=0), "Yes", "No")</td>
-		<td></td>
+		<td>Conditional format that indicates if all indicated cells equal "1" then "Yes"</td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=10:11"</a>Example (Rows 10-11)</td>
 		<td>April 2024</td>
 	</tr>
