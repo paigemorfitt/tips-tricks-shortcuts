@@ -86,8 +86,16 @@
 		<td>Google Sheets & Excel</td>
 		<td>Conditional format that indicates if all indicated cells equal "1" then "Yes"</td>
 		<td>=if(AND (B25=0, B30=0, B20=0, B15=0, B10=0), "Yes", "No")</td>
-		<td>Add "A" in the first cell, then put equation in the next, and it will insert a "B". Drag to add more letters. </td>
+		<td></td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=10:11"</a>Example (Rows 10-11)</td>
+		<td>April 2024</td>
+	</tr>
+	<tr>
+		<td>Google Sheets & Excel</td>
+		<td>Replaces one word for another</td>
+		<td>=SUBSTITUTE(A2, "at", "ate") </td>
+		<td> </td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=12:12"</a>Example (Rows 12)</td>
 		<td>April 2024</td>
 	</tr>
 	
