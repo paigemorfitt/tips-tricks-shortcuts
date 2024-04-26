@@ -114,4 +114,12 @@
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=13:13"</a>Example (Row 13)</td>
 		<td>April 2024</td>
 	</tr>
+	<tr>
+		<td>Excel</td>
+		<td>Looks up the value of B2 in the spreadsheet tab "kanopywithoclcmaybe" Column A, then upon match, imports from the same tab the corresponding column B and C</td>
+		<td>=XLOOKUP(B2,kanopywithoclcmaybe!A:A,kanopywithoclcmaybe!B:C)</td>
+		<td>This works with tabs within the same spreadsheet</td>
+		<td>N/A</td>
+		<td>April 2024</td>
+	</tr>
 </table>
