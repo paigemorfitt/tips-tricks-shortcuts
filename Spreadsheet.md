@@ -95,7 +95,7 @@
 		<td>Replaces one word for another</td>
 		<td>=SUBSTITUTE(A2, "at", "ate") </td>
 		<td> </td>
-		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=12:12"</a>Example (Rows 12)</td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=12:12"</a>Example (Row 12)</td>
 		<td>April 2024</td>
 	</tr>
 	<tr>
@@ -104,6 +104,14 @@
 		<td>=importhtml("https://en.wikipedia.org/wiki/Hans_Zimmer_discography", "Table", 1)</td>
 		<td>Equation imports Table 1 found on Hanz Zimmer's discography wikipedia page. </td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=1566302292&range=F:J"</a>Example (Column F-J)</td>
+		<td>April 2024</td>
+	</tr>
+	<tr>
+		<td>Google Sheets</td>
+		<td>Joins a group of cells in the range B13 to G13 and uses "-" as the joining character</td>
+		<td>=JOIN("-",B13:G13)</td>
+		<td>For Excel, use TEXTJOIN("-",TRUE, B13:G13). TESTJOIN also works in Sheets</td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=13:13"</a>Example (Row 13)</td>
 		<td>April 2024</td>
 	</tr>
 </table>
