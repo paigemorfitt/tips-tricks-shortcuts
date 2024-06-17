@@ -14,17 +14,20 @@
 		<th>Meaning</th>
 		<th>Explination</th>
 		<th>Source</th>
+		<th>Date added</th>
 	</tr>
 	<tr>
 		<td>api</td>
 		<td>Application Programming Interface</td>
 		<td>a set of commands, functions, protocols, and object that programers can use to create software or interact with an external system </td>
 		<td><a href="https://techterms.com/definition/api">TechTerms.com</a></td>
+		<td>June 2024</td>
 	</tr>
 	<tr>
 		<td>IR</td>
 		<td>Institutional Repository</td>
 		<td></td>
 		<td></td>
+		<td>June 2024</td>
 	</tr>
 </table>
