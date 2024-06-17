@@ -5,6 +5,7 @@
     <th>OpenRefine</th>
     <th><a href="RegEx.md">RegEx</a></th>
 	<th><a href="Other.md">Other</a></th>
+	<th><a href="Acronyms.md">Acronyms</a></th>
   </tr>
 <table>
 <table>
