@@ -20,4 +20,5 @@
 		<td>Institutional Repository</td>
 		<td></td>
 		<td></td>
+	</tr>
 </table>
