@@ -6,6 +6,7 @@
     <th><a href="RegEx.md">RegEx</a></th>.
 	<th><a href="Other.md">Other</a></th>
 	<th><a href="Acronyms.md">Acronyms</a></th>
+	<th><a href="glossery.md">Glossery</a></th>
   </tr>
 </table>
 	<h4>Note: Due to changes in Excel (the change from letters to numbers for column labeling) these exact equations will need to be tweaked (4/12/2024)</h4>
