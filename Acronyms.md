@@ -6,7 +6,7 @@
     <th><a href="RegEx.md">RegEx</a></th>
 	<th><a href="Other.md">Other</a></th>
 	<th>Acronyms</th>
-	<th><a href="glossery.md">Glossery</a></th>
+	<th><a href="Glossery.md">Glossery</a></th>
   </tr>
 <table>
 <table>
