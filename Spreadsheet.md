@@ -128,8 +128,18 @@
 		<td>Google Sheets</td>
 		<td>Looks up Value in Cell C14 in tab 'Sheet3' column K. If it is found, it will display content from column L for that cell value</td>
 		<td>XLOOKUP(C14,Sheet3!K:K,Sheet3!L:L)</td>
-		<td>This is for working within the same spreadsheet/td>
+		<td>This is for working within the same spreadsheet. Untested on Excel</td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=14:14"</a>Example (Row 14)</td>
+		<td>September 2024</td>
+	</tr>
+		<tr>
+		<td>Google Sheets</td>
+		<td>Looks up Value in Cell F2 in spreadsheet 'https://docs.google.com/spreadsheets/d/1R8qQFtq6lmGVkXyDV3jdNX5SD_AVHBH9_FI4kTGCuiU/edit?gid=545735534#gid=545735534''s tab 
+'Scores @ Music Library' column A. If it is found, it will display content from 'https://docs.google.com/spreadsheets/d/1R8qQFtq6lmGVkXyDV3jdNX5SD_AVHBH9_FI4kTGCuiU/edit?gid=545735534#gid=545735534''s tab 
+'Scores @ Music Library' column AM</td>
+		<td>xlookup(F2,IMPORTRANGE("https://docs.google.com/spreadsheets/d/1R8qQFtq6lmGVkXyDV3jdNX5SD_AVHBH9_FI4kTGCuiU/edit?gid=545735534#gid=545735534","Scores @ Music Library!a1:a"),IMPORTRANGE("https://docs.google.com/spreadsheets/d/1R8qQFtq6lmGVkXyDV3jdNX5SD_AVHBH9_FI4kTGCuiU/edit?gid=545735534#gid=545735534","Scores @ Music Library!m1:m"))</td>
+		<td>xlookup(F2,IMPORTRANGE("[link to second spreadsheet you are working with]","[Tab name from that spreadsheet you are looking in]![Column where the value of "F" is in the second spareadsheet]"),IMPORTRANGE("[link to second spreadsheet you are working with]","[Tab name from that spreadsheet you are looking in]![Column you want to add to your first spreadsheet]"))</td>
+		<td>N/A</td>
 		<td>September 2024</td>
 	</tr>
 </table>
