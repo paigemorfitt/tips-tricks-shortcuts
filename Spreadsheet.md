@@ -142,4 +142,21 @@
 		<td>N/A</td>
 		<td>September 2024</td>
 	</tr>
+		<tr>
+		<td>Google Sheets</td>
+		<td>Add date to spreadsheet</td>
+		<td>CTRL + ;</td>
+		<td>N/A</td>
+		<td>N/A</td>
+		<td>September 2024</td>
+	</tr>
+				</tr>
+		<tr>
+		<td>Google Sheets</td>
+		<td>Add time to spreadsheet</td>
+		<td>CTRL + Shift + ;</td>
+		<td>N/A</td>
+		<td>N/A</td>
+		<td>September 2024</td>
+	</tr>
 </table>
