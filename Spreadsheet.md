@@ -125,10 +125,10 @@
 		<td>September 2024</td>
 	</tr>
 	<tr>
-		<td>Google Sheets</td>
+		<td>Google Sheets & Excel</td>
 		<td>Looks up Value in Cell C14 in tab 'Sheet3' column K. If it is found, it will display content from column L for that cell value</td>
 		<td>XLOOKUP(C14,Sheet3!K:K,Sheet3!L:L)</td>
-		<td>This is for working within the same spreadsheet. Untested on Excel</td>
+		<td>This is for working within the same spreadsheet. </td>
 		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit#gid=0&range=14:14"</a>Example (Row 14)</td>
 		<td>September 2024</td>
 	</tr>
