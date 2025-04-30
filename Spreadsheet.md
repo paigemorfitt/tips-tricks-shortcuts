@@ -150,13 +150,20 @@
 		<td>N/A</td>
 		<td>September 2024</td>
 	</tr>
-				</tr>
-		<tr>
+	<tr>
 		<td>Google Sheets</td>
 		<td>Add time to spreadsheet</td>
 		<td>CTRL + Shift + ;</td>
 		<td>N/A</td>
 		<td>N/A</td>
 		<td>September 2024</td>
+	</tr>
+	<tr>
+		<td>Google Sheets & Excel</td>
+		<td>Go to the last [X] cell</td>
+		<td>CTRL + Shift + [arrow]</td>
+		<td>If you are clicked on an occupied cell and want to go to the bottom, this will take you to the first empty cell. If you are clicked on an empty cell and want to go to an occupied cell, this will take you to the first occupied cell.</td>
+		<td>N/A</td>
+		<td>April 2025</td>
 	</tr>
 </table>
