@@ -166,4 +166,13 @@
 		<td>N/A</td>
 		<td>April 2025</td>
 	</tr>
+	<tr>
+		<td>Google Sheets & Excel</td>
+		<td>Add Alphabet to Cells</td>
+		<td>=CHAR(CODE(A1) + 1)</td>
+		<td>Instead of manually adding letters to cells, this equation does it with dragging the equation down. You can star anywhere in the alphabet. Numbers, however, only to go 9.</td>
+		<td><a href="https://docs.google.com/spreadsheets/d/1Rmushce4Gin2e-RcT-JL_NJg54GWb5fxofzF4mGpO5Q/edit?gid=1566302292#gid=1566302292&range=E27:F37"
+		>E27-F37</a></td>
+		<td>June 2025</td>
+	</tr>
 </table>
